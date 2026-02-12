@@ -1,0 +1,17 @@
+{
+  "repository": "blue_frontier_repository",
+  "version": "1.0.0",
+  "created": "2026-02-12T19:09:43.890708",
+  "contents": {
+    "core_package": "distech_utils/",
+    "documentation": "docs/",
+    "tools": "tools/",
+    "sops": "docs/sops/",
+    "dashboard": "tools/dashboard/"
+  },
+  "contacts": {
+    "support": "support@bluefrontierac.com",
+    "technical_lead": "scott.hicks@bluefrontierac.com",
+    "phone": "1-833-700-BLUE"
+  }
+}
