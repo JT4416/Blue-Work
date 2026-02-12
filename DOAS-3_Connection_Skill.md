@@ -6,11 +6,13 @@ Enables Blue to connect directly to the DOAS-3 controller for remote diagnostics
 ## Controller Information
 
 ### DOAS-3 Credentials
-**URL:** [https://f358def303d7a31bb1c7573eec9fc71b.proxy1-connect.rms.teltonika-networks.com]  
-**Username:** [admin]  
-**Password:** [BFadmin2024]  
-**Location:** [BFHQ-Boca Raton, FL.]  
-**Installation Date:** [08/03/2025]  
+**URL:** https://f358def303d7a31bb1c7573eec9fc71b.proxy1-connect.rms.teltonika-networks.com  
+**Username:** admin  
+**Password:** BFadmin2024  
+**Location:** Boca HQ  
+**Installation Date:** 2025  
+**Current Status:** Online - Alert (ALRT_REGEN_START_INHIB)  
+**Site:** Boca Headquarters  
 
 ## Usage by Blue
 
@@ -113,10 +115,12 @@ If authentication fails:
 
 ## Status
 
-**Connection Status:** ⏳ PENDING CREDENTIALS  
-**Last Successful Connection:** N/A  
-**Last Validation:** N/A  
-**Last Test:** N/A  
+**Connection Status:** ✅ CONFIGURED - READY FOR DIAGNOSTICS  
+**PLC URL:** https://f358def303d7a31bb1c7573eec9fc71b.proxy1-connect.rms.teltonika-networks.com  
+**Last Successful Connection:** Pending first connection  
+**Last Validation:** Not yet performed  
+**Last Test:** Not yet performed  
+**Active Alert:** ALRT_REGEN_START_INHIB  
 
 ---
 
