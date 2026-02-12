@@ -6,11 +6,11 @@ Enables Blue to connect directly to the DOAS-3 controller for remote diagnostics
 ## Controller Information
 
 ### DOAS-3 Credentials
-**URL:** [PENDING - Please provide]  
-**Username:** [PENDING - Please provide]  
-**Password:** [PENDING - Please provide]  
-**Location:** [PENDING - Installation site]  
-**Installation Date:** [PENDING]  
+**URL:** [https://f358def303d7a31bb1c7573eec9fc71b.proxy1-connect.rms.teltonika-networks.com]  
+**Username:** [admin]  
+**Password:** [BFadmin2024]  
+**Location:** [BFHQ-Boca Raton, FL.]  
+**Installation Date:** [08/03/2025]  
 
 ## Usage by Blue
 
